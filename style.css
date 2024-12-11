@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+h3 {
+    color: aquamarine;
+    text-align: center;
+    text-align-last: center;
+}
+.a {
+    text-decoration: double underline;
+    text-align: center;
+}
+.s {
+    text-decoration: line-through dashed;
+    text-align: center;
+}
+.d {
+    text-decoration: dotted overline;
+    text-align: center;
+}
+.f {
+    text-decoration: wavy underline overline line-through palevioletred;
+    text-align: center;
+}
